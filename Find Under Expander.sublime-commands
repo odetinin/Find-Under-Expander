@@ -1,0 +1,13 @@
+[{
+    "caption": "FindUnderExpander: Add to Selection",
+    "command": "find_under_expander_quick_add"
+}, {
+    "caption": "FindUnderExpander: Skip Selection",
+    "command": "find_under_expander_skip"
+}, {
+    "caption": "FindUnderExpander: Add Word to Selection",
+    "command": "find_under_expander_quick_add_word"
+}, {
+    "caption": "FindUnderExpander: Undo Last Selection",
+    "command": "find_under_expander_undo"
+}]

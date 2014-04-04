@@ -1,0 +1,13 @@
+[{
+    "keys": ["ctrl+d"],
+    "command": "find_under_expander_quick_add"
+}, {
+    "keys": ["ctrl+l"],
+    "command": "find_under_expander_quick_add_word"
+}, {
+    "keys": ["ctrl+k", "ctrl+d"],
+    "command": "find_under_expander_skip"
+}, {
+    "keys": ["ctrl+k", "ctrl+u"],
+    "command": "find_under_expander_undo"
+}]
